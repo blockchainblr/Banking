@@ -7,6 +7,6 @@ contract HelloWorld {
   uint public balance;
 
   function HelloWorld() {
-      balance = 10;
+      balance = 710;
   }
 }
